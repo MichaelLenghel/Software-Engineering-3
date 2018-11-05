@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="SE3_WebAppExample">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <property name="context-root" value="SE3_WebAppExample"/>
+        <property name="java-output-path" value="/SE3_WebAppExample/build/classes"/>
+    </wb-module>
+</project-modules>
